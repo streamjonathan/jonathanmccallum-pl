@@ -121,8 +121,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=14" as="style">
-<link rel="stylesheet" href="/css/style.css?v=14">
+<link rel="preload" href="/css/style.css?v=15" as="style">
+<link rel="stylesheet" href="/css/style.css?v=15">
 </head>
 <body>
 <a class="skip-link" href="#main">Przejdź do treści</a>
@@ -134,13 +134,21 @@
 {{ content | safe }}
 </main>
 <footer class="site-footer">
-  <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">Szukaj</a> · <a href="/privacy/">Prywatność</a></p>
+  <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">Szukaj</a> · <a href="/privacy/">Prywatność</a> · <a href="#" id="cookie-settings">Ustawienia plików cookie</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>Powiedz cześć — <a href="#" data-contact-email data-contact-email-text>Napisz do mnie</a></p>
   <p>Built with Eleventy, hosted on Cloudflare Pages.</p>
 </footer>
 <script src="/js/main.js?v=8" defer></script>
 <script src="/js/contact.js?v=1" defer></script>
+<script src="/js/consent.js?v=1" defer></script>
 <script src="/js/comments.js?v=1" defer></script>
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="Pliki cookie" hidden>
+  <p><strong>Pliki cookie.</strong> Ta strona jest prosta: zapamiętuje tylko wybrany przez Ciebie jasny lub ciemny motyw, na Twoim własnym urządzeniu. Nic tutaj Cię nie śledzi. <a href="/privacy/">Przeczytaj stronę o prywatności</a>.</p>
+  <p class="cookie-banner__buttons">
+    <button id="cookie-accept" type="button">Akceptuję</button>
+    <button id="cookie-reject" type="button">Odrzucam</button>
+  </p>
+</div>
 </body>
 </html>
