@@ -3,7 +3,7 @@ title: "Muzyka i wiara"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/anmari_music.jpg
 ---
 
 Sporo czasu spędzam, słuchając muzyków na Instagramie. Oto kilku, których ostatnio słucham.
@@ -14,70 +14,68 @@ Paweł zrobił coś podobnego w Atenach. Użył ich poezji i ich języka, tak ja
 
 Nie wszyscy śpiewają pieśni uwielbienia. Większość po prostu śpiewa o życiu, a wiara jest jego częścią. To właśnie w nich lubię. Dotknij karty, żeby obejrzeć piosenkę na Instagramie.
 
-Nagrałem też film z reakcją na nową piosenkę SonReala. Możesz go obejrzeć tutaj:
-
-[Moja reakcja na nowy film SonReala](https://www.youtube.com/shorts/wePjZMr6beE)
+Te piosenki są po polsku. To muzycy, którzy śpiewają po polsku — jedni pieśni uwielbienia, inni o życiu, a wiara jest jego częścią.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">Zabawny, pełen nadziei rap o tym, że poznaje się dobrą muzykę, gdy się ją usłyszy. Nie oceniaj książki po okładce.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DGOP6KcNteC/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/anmari_music.jpg" alt="anMari" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">anMari</span>
+<span class="ig-card__note">Śpiewa po polsku balladę «Halleujah».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">„Zarezerwuję ci miejsce.” Delikatna piosenka i wolne krzesło.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DE4982gM3jM/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/magdalenkoszyk.jpg" alt="Magdalena Koszyk" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Magdalena Koszyk</span>
+<span class="ig-card__note">Śpiewa po polsku — «Chrześcijańska muza jest nudna?»</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Jej piosenka „Notice” w końcu wyszła, ponad rok po tym, jak zagrała ją po raz pierwszy.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Ddtv-sUNkw-/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/soundofsofi.jpg" alt="Sofi" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sofi</span>
+<span class="ig-card__note">Śpiewa po polsku pieśń uwielbienia — «Święty, Święty, Święty».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">„Your Heart in the Fire” — lo-fi folk z Północy, szczery, wysłużony, surowy.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df91qyFoA0N/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/nataliaskrzypiec_.jpg" alt="Natalia Skrzypiec" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Natalia Skrzypiec</span>
+<span class="ig-card__note">Śpiewa własną piosenkę o Bogu — po polsku.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">W zeszłym roku oddał swoje życie Bogu. Teraz chce opowiedzieć swoją historię i przy okazji Go chwalić.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DHgyY8hCqlr/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sandrvczuraj.jpg" alt="Sandra Czuraj" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sandra Czuraj</span>
+<span class="ig-card__note">Śpiewa na żywo pieśń uwielbienia — «najpiękniejszy».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Jego nowa piosenka „Not Alone” i sala w San Francisco śpiewająca każde słowo.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DOq0Am5iGqj/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/nali_roka.jpg" alt="Nali Roka" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Nali Roka</span>
+<span class="ig-card__note">Śpiewa z chórem własną pieśń uwielbienia — «Świeży powiew».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">„Secret Fort” — dziecięce dni za kościołem, wieczorne dzwony, najlepsi przyjaciele i wymyślone światy.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfUfm3Xot36/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sowinsky_music.jpg" alt="Sowinsky" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sowinsky</span>
+<span class="ig-card__note">Śpiewa przy pianinie — «chcę być jak Ty, Jezu».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">Nowa piosenka z Łukasza 15, o synu marnotrawnym. „Let Me Go”.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DLaUeSbi0Gi/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/harmonyandthesoul.jpg" alt="Ania" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Ania</span>
+<span class="ig-card__note">Śpiewa po polsku «Oceany» — z gitarą.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">„Jezus jest dobry. Trasa to dar.” Jej piosenki, zagrane w domu.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgANcrgtKN1/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/kape_produkcje.jpg" alt="Krystian „KaPe” Panek" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Krystian „KaPe” Panek</span>
+<span class="ig-card__note">Prowadzi uwielbienie na koncercie — «Cały czas pragnę blisko Boga być».</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Jej piosenka „keep going” — marzycielska, retro muzyka o Jezusie, już dostępna.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DJAJJ6RNIn5/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/perla_polska.jpg" alt="Barbara Gąsiorek" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Barbara Gąsiorek</span>
+<span class="ig-card__note">Gra na keyboardzie i śpiewa pieśń uwielbienia.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">„Każdy zna kogoś, kto potrzebuje usłyszeć o Jezusie.”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfCzNLYoID7/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/echo_chwaly.jpg" alt="ECHO Chwały" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">ECHO Chwały</span>
+<span class="ig-card__note">Mały zespół śpiewa po polsku muzykę chrześcijańską.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Piosenki o jej drodze ze zdrowiem psychicznym. A do tego pop punk.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/De9wnBhIf_K/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/tgd_official.jpg" alt="TGD" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">TGD</span>
+<span class="ig-card__note">Chór gospel śpiewa na żywo pieśń uwielbienia.</span></span>
 </a>
 </div>
 
