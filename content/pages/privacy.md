@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Prywatność
 
-Tę stronę prowadzi Jonathan McCallum, który mieszka w Getarii w Hiszpanii. To mała, osobista strona: teksty oraz czat, który odpowiada na podstawie tych tekstów. Nie ma tu kont do zakładania, żadnego śledzenia, żadnych reklam i nic nie jest na sprzedaż. Strona przestrzega europejskiego prawa o prywatności (RODO) wobec wszystkich odwiedzających, gdziekolwiek na świecie są.
+Tę stronę prowadzi Jonathan McCallum, który mieszka w Kraju Basków. To mała, osobista strona: teksty oraz czat, który odpowiada na podstawie tych tekstów. Nie ma tu kont do zakładania, żadnego śledzenia, żadnych reklam i nic nie jest na sprzedaż. Strona przestrzega europejskiego prawa o prywatności (RODO) wobec wszystkich odwiedzających, gdziekolwiek na świecie są.
 
 Jeśli masz pytanie o cokolwiek na tej stronie albo o swoje dane osobowe, napisz do Jonathana: <a href="#" data-contact-email data-contact-email-text>Napisz do mnie</a>. Możesz też wysłać mu wiadomość na [Instagramie](https://www.instagram.com/jonamccallum) albo na [Threads](https://www.threads.com/@jonamccallum).
 
